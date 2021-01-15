@@ -8,9 +8,6 @@
 6- git log : Muestra la información de los commit
 7- git commit --amend : Modifica el último commit. Tecla i para insertar y para salir esc :wq!
 8- git checkout -b <nombreRama> : Crea una rama
-<<<<<<< HEAD
 9- git branch : Muestra las ramas y en la cual estoy posicionado
 10- git checkout master : Se posiciona en la rama master
-=======
-9- git branch : Muestra las ramas y en la cual estoy posicionado
->>>>>>> rama-heroes
+11- git branch -d <nombreRama> : Borra la rama
