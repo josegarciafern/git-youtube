@@ -12,3 +12,4 @@
 10. git checkout master : Se posiciona en la rama master
 11. git branch -d <nombreRama> : Borra la rama
 12. git push : Despliegue en el recurso remoto
+13. git commit -am "Mensaje commit" : Se hace el commit en un solo paso
