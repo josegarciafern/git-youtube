@@ -7,4 +7,5 @@
 5- git checkout -- . Regresa al último commit
 6- git log : Muestra la información de los commit
 7- git commit --amend : Modifica el último commit. Tecla i para insertar y para salir esc :wq!
-8- git checkout -b <nombreRama> : Crea una rama 
+8- git checkout -b <nombreRama> : Crea una rama
+9- git branch : Muestra las ramas y en la cual estoy posicionado
